@@ -6,8 +6,8 @@ tabela = pd.read_excel("produtos.xlsx")
 # variables
 imposto_maior = 1.6 #60%
 imposto_menor = 1.17 #17%
-desconto_mobilia = 0.07 #7%
-reajuste_games = 0.03 #3$
+desconto_mobilia = 0.07 #-7%
+reajuste_games = 0.03 #+3%
 
 
 # ALL PRODUCTS WITH PRICES ABOVE 50$
